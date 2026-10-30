@@ -1,0 +1,61 @@
+Windows 11 Junk File Removal
+Freeware — proprietary software
+
+Copyright (c) 2026 Jacek Żaczek. All rights reserved.
+
+This software is provided free of charge for personal and lawful use.
+“Freeware” describes its price; it does not mean that the software is
+open source or in the public domain.
+
+No open-source licence is granted. Unless the copyright holder gives
+prior written permission or applicable law expressly allows it, you may
+not modify, decompile, redistribute, publish, sublicense, or create
+derivative works from this software or its included materials.
+
+The software is provided “AS IS”, without warranties of any kind, express
+or implied, to the extent permitted by applicable law. The author is not
+liable for damages arising from its use, to the extent permitted by
+applicable law. You are responsible for reviewing the selected cleanup
+operations and maintaining appropriate backups.
+
+The application performs system cleanup, including operations that may
+be irreversible. In particular, DISM /ResetBase prevents uninstalling
+currently installed Windows updates after it completes. Review the
+accompanying README before use.
+
+For permission or licensing questions, contact:
+j.zaczek@data.pl
+
+
+INFORMACJA PO POLSKU
+======================================================================
+
+Windows 11 Junk File Removal
+Freeware — oprogramowanie własnościowe
+
+Copyright (c) 2026 Jacek Żaczek. Wszelkie prawa zastrzeżone.
+
+Program jest udostępniany bezpłatnie do użytku osobistego i zgodnego
+z prawem. Określenie „freeware” dotyczy ceny; nie oznacza, że program
+jest open source lub należy do domeny publicznej.
+
+Nie udziela się licencji open source. O ile właściciel praw autorskich
+nie wyrazi uprzedniej pisemnej zgody lub obowiązujące prawo wyraźnie
+tego nie dopuszcza, zabronione jest modyfikowanie, dekompilowanie,
+redystrybucja, publikowanie, udzielanie dalszych licencji lub tworzenie
+utworów zależnych na podstawie programu lub dołączonych materiałów.
+
+Program jest dostarczany „TAKI, JAKI JEST”, bez jakichkolwiek gwarancji,
+wyraźnych lub dorozumianych, w zakresie dozwolonym przez obowiązujące
+prawo. Autor nie odpowiada za szkody wynikające z jego użycia w zakresie
+dozwolonym przez obowiązujące prawo. Użytkownik odpowiada za sprawdzenie
+wybranych operacji czyszczenia i utrzymywanie odpowiednich kopii
+zapasowych.
+
+Program wykonuje czyszczenie systemu, w tym operacje, których nie można
+cofnąć. W szczególności DISM /ResetBase uniemożliwia odinstalowanie
+obecnie zainstalowanych aktualizacji Windows po zakończeniu operacji.
+Przed użyciem przeczytaj dołączony plik README_GUI_PL.txt.
+
+Pytania dotyczące zgody lub licencji:
+j.zaczek@data.pl
